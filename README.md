@@ -20,7 +20,9 @@ This is shown here: http://puu.sh/gmWZS/3c7c19bceb.png
 Pasting Output Information to template.html
 ====================
 
-Copy and paste everything in output.txt below the line that says <!--PASTE OUTPUT INFORMATION HERE-->  
+Copy and paste everything in output.txt below the line that says  
+<!--PASTE OUTPUT INFORMATION HERE-->  
+
 Spacing does not matter. Save the html document and open it up with a web browser.
 
 ---
