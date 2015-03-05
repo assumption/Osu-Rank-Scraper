@@ -4,7 +4,7 @@ Python Version: 3
 
 Script defaults to scraping Mouse + Keyboard users in the top 10,000 globally.  
 Instructions on how to change what playstyle to look for and what country to scrape in is included in the script.  
-This process will take anywhere from 1-3 hours since you're parsing html information from 10,000 different webpages.
+This process will take anywhere from 1-3 hours since you're parsing html from 10,200 different webpages.
 
 Formatting Output Information
 ====================
