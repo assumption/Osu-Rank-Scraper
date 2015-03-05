@@ -1,5 +1,7 @@
 # Osu-Rank-Scraper
 
+Python Version: 3.4
+
 Script defaults to scraping Mouse + Keyboard users in the top 10,000 globally.  
 Instructions on how to change what playstyle to look for and what country to scrape in is included in the script.
 
@@ -19,3 +21,6 @@ Pasting Output Information to template.html
 
 Copy and paste everything in output.txt below the line that says <!--PASTE OUTPUT INFORMATION HERE-->  
 Spacing does not matter. Save the html document and open it up with a web browser.
+
+
+Created using Beautiful Soup http://www.crummy.com/software/BeautifulSoup/
