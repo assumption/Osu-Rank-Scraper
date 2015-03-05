@@ -22,5 +22,6 @@ Pasting Output Information to template.html
 Copy and paste everything in output.txt below the line that says <!--PASTE OUTPUT INFORMATION HERE-->  
 Spacing does not matter. Save the html document and open it up with a web browser.
 
+---
 
 Created using Beautiful Soup http://www.crummy.com/software/BeautifulSoup/
