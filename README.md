@@ -1,4 +1,4 @@
-# Osu-Rank-Scraper
+# Osu-Rank-Scraper (website coming in a few months!)
 
 Python Version: 3
 
