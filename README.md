@@ -1,5 +1,7 @@
 # Osu-Rank-Scraper
 
+Note: This project is for educational purposes. Please don't actually use it without the permission of Dean Herbert (admin of osu.ppy.sh)
+
 Python Version: 3
 
 Script defaults to scraping Mouse + Keyboard users in the top 10,000 globally.  
